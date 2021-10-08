@@ -1,7 +1,7 @@
-# memberportalangularBasic
-Member portal CRUD in Angular (Basic)
+# memberportalangularbasicstatic
+Member portal CRUD in Angular (Basic static)
 
 - A startup project for Angular newbies.
 - It uses Angular framework.
-- It is the most basic app with no css, no dynamic data.
-- It has navigations implemented using Angular routing
+- It is the most basic static app made with no css, no dynamic data and no advance concepts.
+- Has the navigations implemented using Angular routing.
