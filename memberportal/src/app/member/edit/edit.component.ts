@@ -8,12 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EditComponent implements OnInit {
 
-  constructor(private location:Location) { }
+  constructor(private location: Location) { }
 
   ngOnInit(): void {
   }
 
-  goBack(){
+  goBack() {
     this.location.back();
   }
 }

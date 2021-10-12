@@ -8,16 +8,16 @@ import { Router } from '@angular/router';
 })
 export class ListComponent implements OnInit {
 
-  constructor(private router : Router) { }
+  constructor(private router: Router) { }
 
   ngOnInit(): void {
   }
 
-  addmember(){
+  addmember() {
     this.router.navigate(['add']); //OR this.router.navigateByUrl('/add');
   }
-  
-  delete(){
+
+  deleteMember() {
     confirm("Are you sure to delete ?");
   }
 
