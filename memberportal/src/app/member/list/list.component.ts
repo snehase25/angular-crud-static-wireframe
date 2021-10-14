@@ -13,11 +13,11 @@ export class ListComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  addmember() {
+  public addmember(): void {
     this.router.navigate(['add']); //OR this.router.navigateByUrl('/add');
   }
 
-  deleteMember() {
+  public deleteMember(): void {
     confirm("Are you sure to delete ?");
   }
 

@@ -14,7 +14,7 @@ export class AddComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  goBack() {
+  public goBack(): void {
     this.location.back();
   }
 }

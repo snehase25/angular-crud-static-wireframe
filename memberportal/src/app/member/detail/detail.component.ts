@@ -13,7 +13,7 @@ export class DetailComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  goBack() {
+  public goBack(): void {
     this.location.back();
   }
 }
