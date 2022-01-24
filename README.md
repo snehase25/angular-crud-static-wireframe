@@ -1,7 +1,13 @@
-# memberportalangularbasicstatic
-Member portal CRUD in Angular (Basic static)
+# Angular CRUD  Static + Wireframe + Routing
 
-- A startup project for Angular newbies.
-- It uses Angular framework.
-- It is the most basic static app made with no css, no dynamic data and no advance concepts.
-- Has the navigations implemented using Angular routing.
+**Project : Member Portal System (Basic static)**
+
+- A startup project for **Angular newbies.**
+- 
+- Angular **v12**.
+- 
+- **No advance** css or html knowledge is required, if you know the basics of css and html you are good to go.
+- 
+- Angular routing.
+
+Member List Page
